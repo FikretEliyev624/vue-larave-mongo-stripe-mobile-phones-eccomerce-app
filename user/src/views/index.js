@@ -1,0 +1,7 @@
+export {default as BucketView} from './BucketView.vue'
+export {default as ProductsView} from './ProductsView.vue'
+export {default as SigninView} from './SigninView.vue'
+export {default as SignupView} from './SignupView.vue'
+export {default as SuccessView} from './SuccessView.vue'
+export {default as CancelView} from './CancelView.vue'
+export {default as PageNotFoundView} from './PageNotFoundView.vue'

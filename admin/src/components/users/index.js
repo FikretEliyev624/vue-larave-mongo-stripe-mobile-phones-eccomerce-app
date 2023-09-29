@@ -1,0 +1,5 @@
+export {default as UsersHeader} from './UsersHeader.vue'
+export {default as UsersTable} from './UsersTable.vue'
+export {default as EditRole} from './EditRole.vue'
+export {default as CreateUser} from './CreateUser.vue'
+export {default as UserPagination} from './UserPagination.vue'

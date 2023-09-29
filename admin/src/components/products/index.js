@@ -1,0 +1,5 @@
+export {default as CreateProduct} from './CreateProduct.vue'
+export {default as EditProduct} from './EditProduct.vue'
+export {default as ProductPagination} from './ProductPagination.vue'
+export {default as ProductsHeader} from './ProductsHeader.vue'
+export {default as ProductsTable} from './ProductsTable.vue'
